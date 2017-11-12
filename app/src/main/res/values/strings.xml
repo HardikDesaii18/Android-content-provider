@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">MyAllContentProvider</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="Myname">Amit Varu</string>
+    <string name="mygmail">amit.varu007@gmail.com</string>
+    <string name="Contacts">Contacts</string>
+    <string name="Calender">Calender</string>
+    <string name="Phone">Phone</string>
+    <string name="Message">Messages</string>
+    <string name="Send">Send</string>
+    <string name="title_activity_main3">Main3Activity</string>
+    <string name="current_date">June, 2016</string>
+    <string name="add_event">ADD CALENDAR EVENT</string>
+    <string name="sun">SUN</string>
+    <string name="mon">MON</string>
+    <string name="tue">TUE</string>
+    <string name="wed">WED</string>
+    <string name="thu">THU</string>
+    <string name="fri">FRI</string>
+    <string name="sat">SAT</string>
+    <string name="last_date">30</string>
+</resources>

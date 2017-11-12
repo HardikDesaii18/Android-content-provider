@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_Contacts"
+            android:icon="@android:drawable/ic_menu_gallery"
+            android:title="@string/Contacts" />
+        <item
+            android:id="@+id/nav_Calender"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="@string/Calender" />
+        <item
+            android:id="@+id/nav_Phone"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="@string/Phone" />
+        <item
+            android:id="@+id/nav_Message"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="@string/Message" />
+        <item
+            android:id="@+id/nav_send"
+            android:icon="@drawable/ic_menu_send"
+            android:title="@string/Send" />
+    </group>
+
+</menu>

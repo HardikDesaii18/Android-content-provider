@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Myname">Amit Varu</string>
+    <string name="mygmail">amit.varu007@gmail.com</string>
+    <string name="Contacts">Contacts</string>
+    <string name="Calender">Calender</string>
+    <string name="Phone">Phone</string>
+    <string name="Message">Messages</string>
+    <string name="Send">Send</string>
+</resources>
